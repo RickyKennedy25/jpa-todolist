@@ -1,7 +1,7 @@
 # jpa-todolist
 simple program todolist with JPA (BLIBLI training homework)
 
-## Refrence
+## Reference
 ## Spring Boot, PostgreSQL, JPA, Hibernate REST API Demo
 
 ## Tutorial
