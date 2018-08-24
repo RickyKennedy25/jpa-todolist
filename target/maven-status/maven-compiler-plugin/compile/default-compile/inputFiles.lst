@@ -1,0 +1,9 @@
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/model/User.java
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/controller/UserController.java
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/repository/TodoRepository.java
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/repository/UserRepository.java
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/controller/TodoController.java
+/home/rickykennedy/Documents/Future/JPA-TodoList/src/main/java/com/example/postgresdemo/model/Todo.java
